@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+
+# Virtual environment
+.env/
+
+# Gradio cache and config
+.gradio/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+.vscode/
+.idea/
+.env
