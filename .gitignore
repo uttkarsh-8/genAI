@@ -3,6 +3,7 @@ __pycache__/
 
 # Virtual environment
 .env/
+test.html
 
 # Gradio cache and config
 .gradio/
@@ -15,3 +16,4 @@ __pycache__/
 .vscode/
 .idea/
 .env
+
